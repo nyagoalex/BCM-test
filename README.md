@@ -61,7 +61,7 @@ The api can be accessed at [http://localhost:8000/api](http://localhost:8000/api
 
 User API
 
-    GET /api//users
+    GET /api/users
     GET /api/users/{user_id}
     POST /api/users
     PACTH /api/users/{user_id}
@@ -76,7 +76,7 @@ User API
     DELETE /api/users/{user_id}/contacts/{contact_id}
 
 ----------
-# Testing APIs
+## Testing APIs
 Application follows test driven design run the following command to test the api
 
     composer test
