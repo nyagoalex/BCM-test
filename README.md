@@ -69,7 +69,7 @@ User API
 
 User API
 
-    GET /api//users/{user_id}/contacts
+    GET /api/users/{user_id}/contacts
     GET /api/users/{user_id}/contacts/{contact_id}
     POST /api/users/{user_id}/contacts
     PACTH /api/users/{user_id}/contacts/{contact_id}
